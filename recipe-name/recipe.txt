@@ -1,4 +1,3 @@
-Recipe
-Added a step!
+Added a step.
 
 Added another step.
